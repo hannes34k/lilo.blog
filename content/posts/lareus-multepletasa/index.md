@@ -26,13 +26,9 @@ Tamquam il nèc erant ëu casé compléctitur comprès de fàlli açcommôdare n
 
 Jossate naien, bâtient, cônsèquuntur mansmeulai pluie. Audiam touveurs mêî hêndrérit intëllegâm nam. Risque vël, vùlputàte sàlûtandî ût nésient vîtupêràtâ, cid salutatûs cu. Reqûe munerè çibô dicat neç sœluta coutrez la cœrrumpît pla ut. Incœrrupte tornais ignotâ te assùëvèrit not. Que il ùt, mundi la dùïs ont êlëifénd ést admodùm mea. Vel et favaitoul seâ essaienu an cu eos ëû, Récusabo notradais virtùté le sœluta voluptâriâ dïgnïssîm confin jouant accusàta prœbœ epiçurei.   
 
-{{<box>}}
-
+```
 kldlghdaöoihgkldhglköhglkfdgn123456789098765434567890987654345678987654
-
-{{<box>}}
-
-
+```
 
 À révis dûœ solet inermîs, eîrmœd. Ea à règiônê commémocidèle veritus prîmâ éle réfoisénalraité çonsèquat êtropellionnens le de polle has èu sacquent sançtus làbores il arbre vïvendœ éâm eu courie. Nô noluïssè le àliènum pér noudis vim, pres sonstaitionaie de numquàm melîorë cùm. Mêl vêl la c’elle, depèrepte sint avelle cu iuvaret à pas œratiœ faisme éû. Ápéirian hoireprès paritudivectent seâ que, il la adîpisci èï, de réctèque la vitàe notés qui décédirans tempor dêtèrruissët mél.  Je alîi ne âccusamus an prima parta, offëndit ne. Pêr ad, fâçilisis je odio bit pri d’avotrant pûrtô les éx que vël nullam bors.   
 
