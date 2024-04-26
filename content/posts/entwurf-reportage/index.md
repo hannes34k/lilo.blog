@@ -25,7 +25,7 @@ Guide Michelin/Gault Millau 
 
 Die erste Auflage der Guide Michelin, die 1900 von André und Édouard Michelin veröffentlicht wurde, war ein Werkstattwegweiser, in dem Tipps zum Umgang mit dem Auto und den Rädern gegeben wurden. 23 Jahre später kam erstmals eine Auflage heraus, in der es um Hotels und Restaurants ging, vorerst aber nur in Frankreich. 1926 vergab dann das Magazin Guide Michelin erstmals Sterne. Die Restauranttester, sogenannte Inspektoren, sind anonym und der Gastronom erfährt seine Bewertung erst, wenn sein Restaurant in der neuen Auflage des Guide Michelin erscheint. Insgesamt kann ein Restaurant mit bis zu 3 Sternen ausgezeichnet werden. Im Gegensatz zu Michelin befasst sich Gault-Millau schon immer mit dem Gastrobereich. 1969 brachten die Journalisten Henri Gault (1929–2000) und Christian Millau (1928–2017) ein Magazin über Tipps zu Restaurants heraus. 1982 wurde es dann das erste Mal in der Schweiz veröffentlicht. Die Höchstpunktzahl, die erreicht werden kann, sind 20 Punkten. 11 Punkte beschreiben eine durchschnittlichen Küche. Aktuell haben die weltbesten Restaurants 19.5 Punkte. In der gesamten Geschichte erreichten nur zwei Restaurants die Note 20.
 
-{{<box>}}
+{{</box>}}
 
 
 
