@@ -1,7 +1,7 @@
 +++
 title = "InformatikprojektTencent"
 date = "2024-05-29"
-draft = true
+draft = false
 pinned = false
 +++
 Ich habe im Informatikunterricht eine kurze Arbeit zum Thema "Auf den Spuren von Tencent" geschrieben. Zuerst schreibe ich etwas über Tencent, dann wo sie überall Aktien haben und zum Schluss noch Skandale und meine Meinung. 
